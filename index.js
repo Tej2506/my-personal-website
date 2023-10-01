@@ -1,6 +1,3 @@
-function showContactPopup() {
-    alert("Contact Information:\nName: Basavanna C D\nPhone: +61 423519844\nEmail: basavannatej@gmail.com");
-}
 
 function toggleProjectDetails(projectId) {
     var project = document.getElementById(projectId);
@@ -10,3 +7,9 @@ function toggleProjectDetails(projectId) {
         project.style.display = "none";
     }
 }
+
+function showContactPopup() {
+    alert("Contact Information:\nName: Basavanna C D\nPhone: +61 423519844\nEmail: basavannatej@gmail.com");
+}
+
+
