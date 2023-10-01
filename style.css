@@ -67,3 +67,9 @@ ul {
 }
 
 
+footer {
+    text-align: center;
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 0;
+}
